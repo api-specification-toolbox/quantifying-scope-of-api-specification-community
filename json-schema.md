@@ -3,15 +3,15 @@ This page is dedicated to quantifying the footprint of the JSON Schema specifica
 
 ## Core Links
 
-- Website - https://json-schema.org/
-- GitHub Org - https://github.com/json-schema-org
-- JSON Schema Specification - https://github.com/json-schema-org/json-schema-spec
-- JSON Hyper-Schema - https://github.com/json-schema-org/json-hyperschema-spec
-- Slack Channel - https://join.slack.com/t/json-schema/shared_invite/enQtNjc5NTk0MzkzODg5LTVlZGIxNmVhMGY2MWFlYTdiNDQ5NWFiZGUwOThhNmYxZDE0YzA5YjRiOTA5MGY4ZTZlZGZhZDFmYTY4NWM2N2Y
-- Google Group - https://groups.google.com/forum/#!forum/json-schema
-- Test Suite - https://github.com/json-schema-org/JSON-Schema-Test-Suite
-- Understanding JSON Schema - http://json-schema.org/understanding-json-schema/index.html
- - Open Collective - https://opencollective.com/json-schema
+- [Website](https://json-schema.org/)
+- [GitHub Org](https://github.com/json-schema-org)
+- [JSON Schema Specification](https://github.com/json-schema-org/json-schema-spec)
+- [JSON Hyper-Schema](https://github.com/json-schema-org/json-hyperschema-spec)
+- [Slack Channel](https://join.slack.com/t/json-schema/shared_invite/enQtNjc5NTk0MzkzODg5LTVlZGIxNmVhMGY2MWFlYTdiNDQ5NWFiZGUwOThhNmYxZDE0YzA5YjRiOTA5MGY4ZTZlZGZhZDFmYTY4NWM2N2Y)
+- [Google Group](https://groups.google.com/forum/#!forum/json-schema)
+- [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite)
+- [Understanding JSON Schema](http://json-schema.org/understanding-json-schema/index.html)
+- [Open Collective](https://opencollective.com/json-schema)
 
 ## Tags
 

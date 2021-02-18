@@ -39,7 +39,7 @@ Here is some data from each of the specifications, as we work to try to pull tog
 - GitHub Watchers
   - 53 - 01/20/20
 
-### JSON Schema ([GitHub](hhttps://github.com/json-schema-org/json-schema-spec)) ([Twitter](https://twitter.com/jsonschema))
+### JSON Schema ([GitHub](https://github.com/json-schema-org/json-schema-spec)) ([Twitter](https://twitter.com/jsonschema))
 
 - Twitter Followers
   - 239 - 01/20/20
